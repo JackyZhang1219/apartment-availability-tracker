@@ -5,8 +5,8 @@ We want a better way to get notified when apartments for our deisred dates becom
 
 ### Built With
 
-* [!Python][Python-url]
-* [!Selenium][Selenium-url]
+* [Python][Python-url]
+* [Selenium][Selenium-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
